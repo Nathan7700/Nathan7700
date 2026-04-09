@@ -1,7 +1,7 @@
 # Olá, eu sou o Nathan Henrique 👋
 
 ### 📊 Minhas linguagens mais usadas:
-![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan7700&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan7700&layout=compact&theme=dark)
 
 ---
 
