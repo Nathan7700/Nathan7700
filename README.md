@@ -1,18 +1,11 @@
-## Hi there 👋
+# Olá, eu sou o Nathan Henrique 👋
 
-### 📊 Minhas estatísticas:
+### 📊 Minhas linguagens mais usadas:
+![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan7700&layout=compact&theme=vision-friendly-dark)
 
-![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan7700&layout=compact&theme=vision-friendly-dark)<!--
-**Nathan7700/Nathan7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🎓 Cursando Ciência da Computação na **UniCeub**.
+- 📍 Brasília-DF.
+- 💻 Atualmente focado em Python e HTML
