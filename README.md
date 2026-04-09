@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+### 📊 Minhas estatísticas:
+
+![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan7700&layout=compact&theme=vision-friendly-dark)<!--
 **Nathan7700/Nathan7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
